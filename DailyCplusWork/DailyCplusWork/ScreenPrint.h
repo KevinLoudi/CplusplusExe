@@ -11,4 +11,5 @@ public:
 	int FormatOutPut(int Raw,int Col);
 	int Format2OutPut(int Raw,int Col);
 	int GetInput();
+	int OutPut();
 };
